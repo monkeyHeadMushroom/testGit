@@ -4,4 +4,4 @@ sourcetRessa
 qqq
 aaa
 sss
-新建大魔王
+消灭大魔王
